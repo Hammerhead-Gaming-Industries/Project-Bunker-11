@@ -1,5 +1,5 @@
  # Project Bunker 11
-Bunker 11 is a 2D sandbox-block game made and developed by a private two person programming team. It is set in a post nuclear apocalyptic world.
+Bunker 11 is a 2D sandbox-block game made and developed by a private two person programming team. It is set in a post nuclear apocalyptic world. You play as the leader of Team 11 you were deployed to build a bunker outpost but as soon as you landed communications went down and nobody ever showed up to help you so now you have to build a bunker to survive.
 
 It has multiple different versions as shown below and more! And it’s all free!
 
